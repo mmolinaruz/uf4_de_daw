@@ -4,3 +4,6 @@ Cargo: Profesor
 Nombre: Raquel
 Email: ralaman@institutmvm.cat
 Cargo: Coordinadora
+Nombre: Albert
+Email: aalonso@institutmvm.cat
+Cargo: Profesor
