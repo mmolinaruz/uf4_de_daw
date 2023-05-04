@@ -1,3 +1,6 @@
 Nombre: Manu
 Email: mmolina@institutmvm.cat
 Cargo: Profesor
+Nombre: Raquel
+Email: ralaman@institutmvm.cat
+Cargo: Coordinadora
