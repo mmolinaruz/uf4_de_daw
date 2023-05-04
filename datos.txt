@@ -1,9 +1,12 @@
 Nombre: Manu
 Email: mmolina@institutmvm.cat
 Cargo: Profesor
+Tutor: 2 DAW
 Nombre: Raquel
 Email: ralaman@institutmvm.cat
 Cargo: Coordinadora
+Tutor: 1 DAW
 Nombre: Albert
 Email: aalonso@institutmvm.cat
 Cargo: Profesor
+Tutor: 1 ASIX
